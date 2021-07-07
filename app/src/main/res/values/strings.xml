@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Covid19 Tracker</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="toolbar_title">Covid19 Tracker</string>
+    <string name="map_key" translatable="false">AIzaSyD9Sr1oIBLEMM9SnPYAsSIjW-PpBWNnNMI</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">GABRIEL BLESSING EHI</string>
+    <string name="nav_header_subtitle">tennwhiterose@gmail.com/+2348148355580</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="about_p">
+        This is the final year project of <b>GABRIEL BLESSING EHI</b>, for completion of <b>HND</b> program, class of <b>2021</b>,
+        <b>Federal Polytechnic Bauchi</b>.
+    </string>
+    <string name="about_p2">
+        <b>Developed by:</b>
+    </string>
+    <string name="about_p22">
+        <i>EasyTech</i>
+    </string>
+    <string name="about_p23">
+        <b>Contact us:</b>
+    </string>
+    <string name="about_p24">
+        <i>tennwhiterose@gmail.com/</i>
+    </string>
+    <string name="about_p25">
+        <i>+2348148355580</i>
+    </string>
+</resources>
