@@ -2,7 +2,7 @@
     <string name="app_name">Covid19 Tracker</string>
     <string name="title_activity_about">AboutActivity</string>
     <string name="toolbar_title">Covid19 Tracker</string>
-    <string name="map_key" translatable="false">AIzaSyD9Sr1oIBLEMM9SnPYAsSIjW-PpBWNnNMI</string>
+    <string name="map_key" translatable="false">YOUR_API_KEY</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
